@@ -1,0 +1,6 @@
+PySide6
+ultralytics==8.4.150
+opencv-python
+numpy
+torch
+torchvision
